@@ -87,7 +87,13 @@ body {
 }
 
 .card-home .area-startup .span-area-startup {
+    position: relative;
+    height: 30px;
+    margin-top: auto;
+    margin-left: 250px;
+    text-align: center;
     background-color: green;
+
 }  
 /* .teste {
     width: 200px;
