@@ -54,9 +54,17 @@ body {
 }
 
 .card-img-top {
-    height: 150px;
+    height: 200px;
 }
 
+
+/*.card.body {
+
+    bottom: 25px ;
+
+} */
+
+;
 .card-home {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -95,6 +103,18 @@ body {
     background-color: green;
 
 }  
+
+.card-home .investors {
+    position: relative;
+    margin-left: -27px;
+    margin-top: -37px;
+
+    top: 35px;
+    padding-right: -10px;
+    background-color: rgb(251, 255, 0);
+}
+
+
 /* .teste {
     width: 200px;
     height: 200px;
