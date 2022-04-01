@@ -4,6 +4,7 @@
     --color-nav-link: white;
     --color-nav-link-hover: rgb(187, 187, 187);
     --color-backgroud: rgb(236, 236, 236);
+    --icon-pos: 900px;
 }
 
 body {
@@ -39,6 +40,7 @@ body {
 #home-box {
     text-align: center;
 }
+
 
 #home-text {
     padding-left: 75px;
@@ -113,6 +115,113 @@ body {
     padding-right: -10px;
     background-color: rgb(251, 255, 0);
 }
+
+
+.angelInvesttop{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -130px; ;
+    width: 30%;
+
+}
+
+.angelInvestlogo{
+
+    position: relative;
+    width: 500px;
+    height: 291px;
+    
+    background: url("img/angelInvestBranco 1.png") !important;
+
+}
+
+.angelInvestbottom {
+
+    width: 112px;
+    height: 74px;
+    
+    background: url("img/angelInvestBranco 1.png") !important;
+
+
+}
+
+.Textfooter{
+    display: block;
+    margin-left: 900px;
+    top: 37px;
+    margin-right: auto;
+    position: relative;
+    color: white;
+    z-index: 7;
+
+}
+
+
+
+
+
+
+
+
+
+
+.UFAPElogo{
+
+    position: relative;
+    top: 10px;
+    left: 830px;
+    width: 30px;
+    height: 70px;
+    
+
+
+}
+
+
+
+
+.iconinsta{
+    position: relative;
+    left: 1610px;
+    top: 0px ;
+    width: 30px;
+    height: 30px;
+}
+
+.iconface{
+    position: relative;
+    left: 1620px;
+    top: 0px ;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.iconEmail{
+    position: relative;
+    left: 1630px;
+    top: 0px ;
+    width: 40px;
+    height: 30px;
+}
+
+.footerFix{
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--primary-color) !important;
+}
+
+
+
+
+
+
 
 
 /* .teste {
